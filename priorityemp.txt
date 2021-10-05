@@ -1,0 +1,8 @@
+    NAME	   SALARY
+  Daniel	 98476.22
+    Sean	221133.55
+    Jose	352109.00
+    Juan	452198.70
+   James	1000000.42
+    Ryan	1854123.77
+   Oscar	7654321.89
